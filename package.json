@@ -1,0 +1,21 @@
+{
+  "name": "09bigstack",
+  "version": "1.0.0",
+  "description": "small version of stackoverflow",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "arsh",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.7",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "validator": "^13.6.0"
+  }
+}
